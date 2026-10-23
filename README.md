@@ -29,4 +29,4 @@ That's the whole job. Governance is architecture. Observability, audit trails an
 
 ## Find me
 
-[ercin.info](https://ercin.info) · [X @aiarchitect](https://x.com/aiarchitect) · [Hugging Face](https://huggingface.co/Ercin) · [Medium](https://ercin.medium.com/) · [dev.to](https://dev.to/ercin) · [Stack Overflow](https://stackoverflow.com/users/2426367)
+[ercin.info](https://ercin.info) · [AI architect in Dubai: what I build](https://ercin.info/ai-architect-dubai/) · [X @aiarchitect](https://x.com/aiarchitect) · [Hugging Face](https://huggingface.co/Ercin) · [Medium](https://ercin.medium.com/) · [dev.to](https://dev.to/ercin) · [Stack Overflow](https://stackoverflow.com/users/2426367)
